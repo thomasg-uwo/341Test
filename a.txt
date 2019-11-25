@@ -1,1 +1,4 @@
-George Thomas
+//Add yourself to the end of the list, on the same line!
+//Commit message for this file must read as "Updated with <your name>
+
+George Thomas, 
